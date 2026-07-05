@@ -16,7 +16,7 @@ variable "repo_name" {
 }
 
 variable "repo_description" {
-  description = "Repository' description"
+  description = "Repository's description"
   type        = string
   default     = "GitHub repository terraformed with OpenTofu"
 }
